@@ -1,3 +1,0 @@
-C:/Development/past/.pwr/figury/cmake-build-debug/CMakeFiles/figury.dir
-C:/Development/past/.pwr/figury/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Development/past/.pwr/figury/cmake-build-debug/CMakeFiles/rebuild_cache.dir
