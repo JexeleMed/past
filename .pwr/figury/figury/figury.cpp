@@ -74,6 +74,7 @@ int main() {
                         figury.erase(it);
                         std::cout << "Usuwanie zakonczone" << std::endl;
                     }
+                    count = 1;
 
             }
             break;
